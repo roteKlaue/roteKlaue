@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roteKlaue
-- 👀 I’m interested in Javascript, Java, C, C++, Python
+- 👀 I’m interested in JavaScript, TypeScript, Java, C, C++, Python
 - 🌱 I’m currently learning Java, C++, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me janoolhd@gmail.com
