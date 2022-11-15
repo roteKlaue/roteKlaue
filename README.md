@@ -9,4 +9,5 @@ roteKlaue/roteKlaue is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://raw.githubusercontent.com/roteKlaue/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![]([https://raw.githubusercontent.com/roteKlaue/github-stats/master/generated/](https://raw.githubusercontent.com/roteKlaue/github-stats-fork/master/generated/languages.svg#gh-dark-mode-only)
+![]([https://raw.githubusercontent.com/roteKlaue/github-stats/master/generated/](https://raw.githubusercontent.com/roteKlaue/github-stats-fork/master/generated/overview.svg#gh-dark-mode-only)
