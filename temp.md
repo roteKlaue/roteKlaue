@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm roteKlaue</h1>
-<h3 align="center">I am a Fullstack developer who just started working recently.</h3>
 
 - 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/SussyUtilMadeByMe)
 
