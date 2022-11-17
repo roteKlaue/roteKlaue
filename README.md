@@ -16,4 +16,4 @@
 
 ![](https://raw.githubusercontent.com/roteKlaue/github-stats-fork/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/roteKlaue/github-stats-fork/master/generated/languages.svg#gh-dark-mode-only)
 
-<-- [![GitHub Streak](https://streak-stats.demolab.com?user=roteKlaue&theme=git-dark&hide_border=true)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=roteKlaue&theme=git-dark&hide_border=true)](https://git.io/streak-stats) -->
