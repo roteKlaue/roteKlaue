@@ -1,4 +1,4 @@
-# Hallo HERR Haynaly bitte verlassen sie sofort meinen Account.
+# Hallo HERR Haynaly bitte verlassen sie SOFORT meinen Account.
 
 <!---
 - 👋 Hi, I’m @roteKlaue
