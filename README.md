@@ -1,5 +1,3 @@
-# Hallo HERR Haynaly bitte verlassen sie SOFORT meinen Account.
-
 <!---
 - 👋 Hi, I’m @roteKlaue
 - 👀 I’m interested in JavaScript, TypeScript, Java, C, C++, Python
