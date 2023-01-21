@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/SussyUtilMadeByMe)
 
-- 🌱 I’m currently learning **C++, Python and React**
+- 🌱 I’m currently learning **C++, Kotlin, Groovy, Python and React**
 
 - 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/SussyUtilMadeByMe)
 
