@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm roteKlaue</h1>
 
-- 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/SussyUtilMadeByMe)
+- 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/sussy-util)
 
 - 🌱 I’m currently learning **C++, Kotlin, Groovy, Python and React**
 
-- 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/SussyUtilMadeByMe)
+- 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/sussy-util)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +33,31 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=roteKlaue&theme=git-dark&hide_border=true)](https://git.io/streak-stats) -->
 
 
+<!--
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+-->
 
