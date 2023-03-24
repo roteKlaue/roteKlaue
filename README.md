@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm roteKlaue</h1>
 
-- 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/sussy-util)
+- 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/sussy-util#readme)
 
 - 🌱 I’m currently learning **C++, Kotlin, Groovy, Python and React**
 
-- 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/sussy-util)
+- 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/sussy-util#readme)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
