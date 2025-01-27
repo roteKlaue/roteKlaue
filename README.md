@@ -11,13 +11,13 @@ roteKlaue/roteKlaue is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm roteKlaue</h1>
-
+<!---
 - 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/sussy-util#readme)
-
-- 🌱 I’m currently learning **C++, Kotlin, Groovy, Python and React**
-
+--->
+- 🌱 I’m currently learning **C++, C#, Rust and Python**
+<!---
 - 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/sussy-util#readme)
-
+--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/roteklaue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roteklaue" height="30" width="40" /></a>
