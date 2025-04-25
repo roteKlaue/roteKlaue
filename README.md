@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 - 🔭 I’m currently working on [a TypeScript Utility Package](https://github.com/roteKlaue/sussy-util#readme)
 --->
-- 🌱 I’m currently learning **C++, C#, Rust and Python**
+- 🌱 I’m currently learning **C++, C# and Rust**
 <!---
 - 🤝 I’m looking for help with [my Utility Package](https://github.com/roteKlaue/sussy-util#readme)
 --->
